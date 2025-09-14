@@ -10,6 +10,8 @@ audio/*.wav
 runs/
 *.pth
 *.ckpt
+!audio/ref/
+!audio/ref/ref_01.wav
 
 # Models (keep Donu local; don’t push)
 models/**
