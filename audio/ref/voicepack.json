@@ -1,0 +1,22 @@
+{
+  "voices": [
+    {
+      "ref": ".\\audio\\ref\\male\\common_voice_ru_42861298_norm.wav",
+      "name": "ru_male_neutral",
+      "lang": "ru",
+      "notes": "male neutral, cleaned (no trim)"
+    },
+    {
+      "ref": ".\\audio\\ref\\female\\common_voice_ru_42713549_norm.wav",
+      "name": "ru_female_neutral",
+      "lang": "ru",
+      "notes": "female neutral, cleaned (no trim)"
+    },
+    {
+      "ref": ".\\audio\\ref\\ref_01_norm.wav",
+      "name": "ru_root_ref01",
+      "lang": "ru",
+      "notes": "root ref_01 (no trim)"
+    }
+  ]
+}
